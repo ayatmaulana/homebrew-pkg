@@ -8,7 +8,7 @@ class TadaRunnerGenerator < Formula
   license ""
 
   def install
-    bin.install "tada-runner-generator-darwin-amd64"
+    bin.install "tada-runner-generator-darwin-amd64" => "tada-runner-generator"
   end
 end
 
