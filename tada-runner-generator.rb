@@ -4,7 +4,7 @@ class TadaRunnerGenerator < Formula
   desc ""
   homepage ""
   url "https://github.com/ayatmaulana/tada-runner-generator/releases/download/v0.0.2/tada-runner-generator-darwin-amd64.tar.gz"
-  sha256 "277bbb8c5ae32912ee21fdb0456c1f791881960476e947fa597b428a02660fc3"
+  sha256 "dbcec1785c51fb8afde76171aed0d31fce576bc86188de007f10bc0b786452f7"
   license ""
 
   def install
