@@ -1,10 +1,10 @@
 # Created By: Ayat Maulana
 
 class TadaRunnerGenerator < Formula
-  desc ""
+  desc "Generator for TADA Runner, simplify you life and avoiding copas from existing runner."
   homepage ""
-  url "https://github.com/ayatmaulana/tada-runner-generator/releases/download/v0.0.2/tada-runner-generator-darwin-amd64.tar.gz"
-  sha256 "dbcec1785c51fb8afde76171aed0d31fce576bc86188de007f10bc0b786452f7"
+  url "https://github.com/ayatmaulana/tada-runner-generator/releases/download/v0.0.3/tada-runner-generator-darwin-amd64.tar.gz"
+  sha256 "50f6e1256f2719358f27a1d059d2d2c6cb74235a018f7f5ac86ee1fe293d79d4"
   license ""
 
   def install
